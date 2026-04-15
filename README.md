@@ -131,4 +131,4 @@ This project is for educational purposes. Restaurant data belongs to Swiggy.
 
 ---
 
-_Built by [Your Name](https://github.com/your-username)_
+_Built by [Dharshan S]([https://github.com/your-username](https://github.com/Dacchu2004))_
